@@ -7,5 +7,5 @@
 __My implementation of the rocket-engine-powered jet racing car example from _Ge, Z.M. and Cheng, Y.H., 1982_ in Python (SymPy/PyDy)__
 
 References:
- - Ge, Z.M. and Cheng, Y.H., 1982. Extended Kane’s equations for nonholonomic variable mass system.
- - Kane, T.R., 1978. Nonholonomic multibody systems containing gyrostats. In Dynamics of Multibody Systems (pp. 97-107). Springer, Berlin, Heidelberg.
+ 1. Ge, Z.M. and Cheng, Y.H., 1982. Extended Kane’s equations for nonholonomic variable mass system.
+ 1. Kane, T.R., 1978. Nonholonomic multibody systems containing gyrostats. In Dynamics of Multibody Systems (pp. 97-107). Springer, Berlin, Heidelberg.
