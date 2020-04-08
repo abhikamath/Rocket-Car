@@ -1,6 +1,6 @@
 # Rocket-Car
 
-### Modeling a Variable-Mass Nonholonomic Gyrostatic Rocket Car Using Extended Kane's Equations
+### Modeling of a Variable-Mass Nonholonomic Gyrostatic Rocket Car Using Extended Kane's Equations
 
  - [__Rendered Jupyter Notebook__](https://nbviewer.jupyter.org/github/abhinavkamath/Rocket-Car/blob/master/Rocket_Car.ipynb?flush_cache=true)
 
