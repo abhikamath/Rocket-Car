@@ -4,6 +4,7 @@
 <p align="center">
   <img src="Images/rocket-car.png" width="600px">
 </p>
+<br>
 
 ### Modeling of a Variable-Mass Nonholonomic Gyrostatic Rocket Car Using Extended Kane's Equations
 
