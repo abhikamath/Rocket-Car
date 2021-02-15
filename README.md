@@ -2,7 +2,7 @@
 
 <br />
 <p align="center">
-  <img src="Images/rocket-car.pdf">
+  <img src="Images/rocket-car.svg">
 </p>
 <br />
 
